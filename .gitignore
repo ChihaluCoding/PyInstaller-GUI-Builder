@@ -3,3 +3,4 @@
 /build
 /PyInstaller GUI Builder.exe
 /PyInstaller GUI Builder.spec
+/password_dialog.py
